@@ -1,11 +1,11 @@
 # Site settings
-author: Daniel Sasser
-title: 
+author: D Sasser
+title: Daniel's Flatiron Blog
 header-img: img/home-bg.png
 email: danielbsasser@gmail.com
-copyright_name: Daniel Sasser
+copyright_name: D Sasser
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A blog for my journey at the Flatiron School 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dbsasser
