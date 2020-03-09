@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Building the CLI Data Gem Project - Bands You Might Like"
-date:       2020-03-09 00:30:27 +0000
+date:       2020-03-08 20:30:28 -0400
 permalink:  building_the_cli_data_gem_project_-_bands_you_might_like
 ---
 
@@ -15,7 +15,7 @@ For my CLI Data project, the first project of the Software Engineering program a
 
 Now that I had an idea of what I wanted to do, I had to face what was easily one of the most daunting aspects to this project-- the blank slate that was given. For all the labs and lessons leading up to this project, there was always at least a basic application structure given and tests to make sure the code was right. Now, there was none of that and not only did I have to figure out how to code the project, but how to set the project up to begin with. While setting up a Gem wasn’t something that was covered in the lessons before the project, a couple of videos were provided on how to get started on the project page, which I used to get my basic project structure up and on GitHub. (Note: this was probably a bad time to switch from the browser IDE, but I switched to the desktop IDE and VSCode at this point so I could adjust my terminal size.) 
 
-Once I was set up, I found banging out a rough working code to be surprising easy and felt a little relief that I maybe did know what I was doing after all. Luckily, the website Last.fm has tons of information on bands/artists and made scraping the information I needed my project a simple process. I could go to a bands page, scrape a list of similar artists, and then go to those artist’s page to scrape more information. I also took the time to build a more detailed flow chart for my application:
+Once I was set up, I found banging out a rough working code to be surprisingly easy and felt a little relief that I maybe did know what I was doing after all. Luckily, the website Last.fm has tons of information on bands/artists and made scraping the information I needed my project a simple process. I could go to a bands page, scrape a list of similar artists, and then go to those artist’s page to scrape more information. I also took the time to build a more detailed flow chart for my application:
 
 * Puts Greeting 
 * Asks user for a band
